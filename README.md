@@ -1,5 +1,5 @@
 # DeepLearnig.AI
-Coursera-DeepLearnig.ai by Andrew NG 
+Coursera-DeepLearning.ai by Andrew NG 
 
 
 # References:
