@@ -152,7 +152,7 @@ Here are the course summary as its given on the course [link](https://www.course
     - Where m is the number of Dev set items.
   - `NewMetric = (1/sum(w[i])) * sum(w[i] * (y_pred[i] != y[i]) ,m)`
     - where:
-       - `w[i] = 1                   if x[i] is not porn`
+       - `w[i] = 1                  if x[i] is not porn`
        - `w[i] = 10                 if x[i] is porn`
 
 - This is actually an example of an orthogonalization where you should take a machine learning problem and break it into distinct steps: 
