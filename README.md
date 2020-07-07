@@ -3,7 +3,30 @@ Coursera-DeepLearning.ai by Andrew NG
 
 <IMG src='https://camo.githubusercontent.com/2efb826ed92f78f3d2bcbc4b401973610d8ec065/687474703a2f2f692e696d6775722e636f6d2f6a74374a7a52642e706e67' width=50% height=25%><P>
 
+## About this Specialization
 
+In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach. 
+
+## Applied Learning Project
+
+You will see and work on case studies in healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will also build near state-of-the-art deep learning models for several of these applications. In a "Machine Learning flight simulator", you will work through case studies and gain "industry-like experience" setting direction for an ML team.
+
+deeplearning.ai is also partnering with the NVIDIA Deep Learning Institute (DLI) in Course 5, Sequence Models, to provide a programming assignment on Machine Translation with deep learning. You will have the opportunity to build a deep learning project with cutting-edge, industry-relevant content.
+
+## Skills You Will Gain:
+  
+    Tensorflow
+    Convolutional Neural Network
+    Artificial Neural Network
+    Deep Learning
+    Backpropagation
+    Python Programming
+    Hyperparameter
+    Hyperparameter Optimization
+    Machine Learning
+    Inductive Transfer
+    Multi-Task Learning
+    Facial Recognition System
 
 ## Specialization Certificate:
 
@@ -15,7 +38,7 @@ Coursera-DeepLearning.ai by Andrew NG
   - https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 
 
-# Dependencies:
+## Dependencies:
 
     Python 3 (or superior)
     Numpy
@@ -25,6 +48,6 @@ Coursera-DeepLearning.ai by Andrew NG
     Keras
 
 
-# References:
+## References:
 
 https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
