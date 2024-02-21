@@ -1,7 +1,7 @@
 # DeepLearnig.AI
 Coursera-DeepLearning.ai by Andrew NG 
 
-<IMG src='https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_400x400.jpg' width=50% height=50%>
+<p><IMG src='https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_400x400.jpg' width=50% height=50%></p>
 
 ## About this Specialization
 
